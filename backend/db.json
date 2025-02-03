@@ -2,14 +2,14 @@
   "opinions": [
     {
       "id": 1738596401520,
-      "votes": 0,
+      "votes": -1,
       "userName": "Test",
       "title": "New title",
       "body": "It is a test of the new feature."
     },
     {
       "id": 1738593311847,
-      "votes": 1,
+      "votes": 0,
       "userName": "Diego Mayorga",
       "title": "I am a React Developer",
       "body": "Actually, I've been learning a lot of this library. So, I'm ready to start working in any company and share my knowledge."
